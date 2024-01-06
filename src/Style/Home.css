@@ -1,0 +1,155 @@
+.main-containe{
+    background-color: skyblue;
+
+   
+   
+}
+.date{
+    display: flex;
+   justify-content: end;
+  width: 1020px;
+    height: 80px;
+    align-items: center;
+   
+}
+.nav1{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.nav-right{
+    margin-left: 20px;
+}
+.span2{
+    background-color: skyblue;
+    padding: 4px;
+    border-radius: 5px;
+}
+.sec{
+   background-color: #fff;
+   padding: 8px;
+border-radius: 5px;
+margin: 4px;
+}
+.container2{
+    display: flex;
+
+}
+.c-left{
+    height: 530px;
+    width: 50%;
+    /*  */
+    display: grid;
+    align-items: center;
+    justify-content: center;
+   
+}
+.c-right{
+    height: 550px;
+    width: 50%;
+    
+  
+    align-items: center;
+    display: grid;
+    justify-content: center;
+    
+}
+.box-left{
+    height: 300px;
+    width: 400px;
+    background-color: blue;
+    border-radius: 5px;
+    color: #fff;
+}
+.span-c{
+    margin: 15px;
+    display: block;
+
+}
+.span-c1{
+    margin: 15px;
+    display: block;
+    margin-top: 50px;
+}
+
+.items1{
+    height: 130px;
+    width: 220px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.item-sec1{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 5px;
+}
+.boxs{
+    color: black;
+    margin-left: 10px;
+    display: grid;
+    line-height: 10px;
+    margin-top: 10px;
+}
+.left-div{
+    display: flex;
+    justify-content: space-between;
+}
+.lf{
+    background-color: rgb(32, 32, 160);
+     padding: 10px;
+     color: #fff;
+     border-radius: 5px;
+}
+.box3{
+    width: 400px;
+    height: 100px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    color: black;
+    margin-top: 4px;
+    font-size: 13px;
+}
+.ul1{
+    list-style: none;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   justify-content: center;
+   color: black;
+   margin-top: 6px;
+   font-size: 13px;
+}
+.li2{
+    margin-right: 90px;
+    
+}
+.li3{
+    margin-left: 10px;
+    
+}
+
+.par{
+    color: rgb(19, 116, 155);
+    font-weight: 400;
+    margin-left: 8px;
+    
+}
+.footer-left{
+
+}
+.style{
+    border: 1px solid #000;
+    
+}
+.right-footer{
+    width: 450px;
+    height: 100px;
+    background-color: #fff;
+    border-radius: 5px;
+    display: flex;
+}
